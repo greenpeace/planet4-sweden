@@ -3,7 +3,8 @@
 	"description": "Greenpeace P4 Sweden",
 	"license": "MIT",
 	"require": {
-		"greenpeace/planet4-child-theme-sweden" : "0.1"
+		"greenpeace/planet4-child-theme-sweden" : "0.1",
+		"greenpeace/planet4-gpnordic-plugin-portrait" : "1.0.4"
 	},
 	"scripts": {
 		"core:language": "wp language core install sv_SE; wp language core activate sv_SE",
