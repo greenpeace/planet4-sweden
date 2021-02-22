@@ -1,18 +1,18 @@
 {
-	"name": "greenpeace/planet4-sweden",
-	"description": "Greenpeace P4 Sweden",
-	"license": "MIT",
-	"require": {
-		"greenpeace/planet4-child-theme-nordic" : "dev-develop",
-		"greenpeace/planet4-gpnordic-plugin-gutenberg-blocks": "dev-develop",
-		"greenpeace/planet4-gpnordic-plugin-leads": "dev-develop",
-		"greenpeace/planet4-gpnordic-plugin-portrait" : "dev-develop"
-	},
-	"scripts": {
+    "name": "greenpeace/planet4-sweden",
+    "description": "Greenpeace P4 Sweden",
+    "license": "MIT",
+    "require": {
+        "greenpeace/planet4-child-theme-nordic" : "dev-develop",
+        "greenpeace/planet4-gpnordic-plugin-gutenberg-blocks": "dev-develop",
+        "greenpeace/planet4-gpnordic-plugin-leads": "dev-develop",
+        "greenpeace/planet4-gpnordic-plugin-portrait" : "dev-develop"
+    },
+    "scripts": {
     "core:language": "wp language core install sv_SE; wp language core activate sv_SE",
-		"site:custom": [
-			"@core:language"
-		]
+        "site:custom": [
+            "@core:language"
+        ]
 
-	}
+    }
 }
