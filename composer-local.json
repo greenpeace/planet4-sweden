@@ -6,8 +6,7 @@
         "greenpeace/planet4-child-theme-nordic" : "dev-develop",
         "greenpeace/planet4-gpnordic-plugin-leads": "dev-develop",
         "plugins/gravityforms": "*",
-        "plugins/gravityformsquiz": "*",
-        "plugins/gravityformshubspot": "*"    
+        "plugins/gravityformsquiz": "*"   
     },
     "scripts": {
     "core:language": "wp language core install sv_SE; wp language core activate sv_SE",
