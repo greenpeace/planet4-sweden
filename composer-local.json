@@ -4,10 +4,7 @@
     "license": "MIT",
     "require": {
         "greenpeace/planet4-child-theme-nordic" : "dev-develop",
-        "greenpeace/planet4-gpnordic-plugin-leads": "dev-develop",
-        "plugins/gravityforms": "*",
-        "plugins/gravityformsquiz": "*",
-        "wpackagist-plugin/wp-all-export": "1.3.7"
+        "greenpeace/planet4-gpnordic-plugin-leads": "dev-develop"
     },
     "scripts": {
     "core:language": "wp language core install sv_SE; wp language core activate sv_SE",
