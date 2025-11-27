@@ -3,18 +3,15 @@
     "description": "Greenpeace P4 Sweden",
     "license": "MIT",
     "require": {
-        "greenpeace/planet4-child-theme-nordic" : "dev-develop",
+        "greenpeace/planet4-child-theme-nordic": "dev-develop",
         "greenpeace/planet4-gpnordic-plugin-leads": "dev-develop",
         "greenpeace/planet4-gpch-plugin-optimize": "dev-main",
         "plugins/gravityformszapier": "*"
     },
     "scripts": {
-    "core:language": "wp language core install sv_SE; wp language core activate sv_SE",
-    "install:plugin-gravityformszapier": "wp plugin install --activate https://storage.googleapis.com/planet4-3rdparty-plugins/gravityformszapier_4.4.0.zip",
+        "core:language": "wp language core install sv_SE; wp language core activate sv_SE",
         "site:custom": [
-            "@core:language",
-            "@install:plugin-gravityformszapier"
+            "@core:language"
         ]
-
     }
 }
