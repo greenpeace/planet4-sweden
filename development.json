@@ -2,7 +2,7 @@
   "require": {
     "greenpeace/planet4-master-theme": "dev-add/filter-html-processor-nros",
     "greenpeace/planet4-child-theme-nordic": "dev-develop",
-    "greenpeace/planet4-gpnordic-plugin-leads": "dev-feature/dependancies",
+    "greenpeace/planet4-gpnordic-plugin-leads": "dev-feature/dependencies",
     "greenpeace/planet4-gpnordic-plugin-gutenberg-blocks": "dev-develop",
     "greenpeace/planet4-gpch-plugin-optimize": "dev-main",
     "wpackagist-plugin/beaf-before-and-after-gallery": "4.5.*",
