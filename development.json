@@ -1,7 +1,7 @@
 {
   "require": {
-    "greenpeace/planet4-master-theme": "dev-add/filter-html-processor-nros",
-    "greenpeace/planet4-child-theme-nordic": "dev-test/processor-filter",
+    "greenpeace/planet4-master-theme": "v1.366.0",
+    "greenpeace/planet4-child-theme-nordic": "dev-test/update-iraiser-script",
     "greenpeace/planet4-gpnordic-plugin-leads": "dev-feature/dependencies",
     "greenpeace/planet4-gpnordic-plugin-gutenberg-blocks": "dev-develop",
     "greenpeace/planet4-gpch-plugin-optimize": "dev-main",
