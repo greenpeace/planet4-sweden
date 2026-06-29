@@ -1,6 +1,6 @@
 {
   "require": {
-    "greenpeace/planet4-master-theme": "*",
+    "greenpeace/planet4-master-theme": "dev-main",
     "greenpeace/planet4-child-theme-nordic": "dev-test/update-iraiser-script",
     "greenpeace/planet4-gpnordic-plugin-leads": "dev-feature/dependencies",
     "greenpeace/planet4-gpch-plugin-optimize": "dev-main",
